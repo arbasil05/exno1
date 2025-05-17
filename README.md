@@ -1,6 +1,9 @@
 # Exno:1
 Data Cleaning Process
 
+## NAME : Abdur Rahman Basil A H
+## REG NO : 212223040002
+
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
 
@@ -244,4 +247,5 @@ op
 
 
 # Result
-          <<include your Result here>>
+Thus, the Data Cleaning Process is executed Successfully.
+
